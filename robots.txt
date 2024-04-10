@@ -1,3 +1,0 @@
-Sitemap: https://prss.co/sitemap.xml
-User-agent:*
-Disallow:
