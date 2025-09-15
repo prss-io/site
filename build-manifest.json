@@ -2,6 +2,20 @@
   "version": 1,
   "items": [
     {
+      "uuid": "89543449-f27d-4336-b2f5-c1ceb49a1c0b",
+      "path": "/blog",
+      "templateId": "landing.blog",
+      "hash": "272dd836d090bfdf338986a82f2e68a9",
+      "reused": false
+    },
+    {
+      "uuid": "ce7072e8-c62d-43fc-8c9b-5b8fec4e287b",
+      "path": "/blog/improvements-prss-build-system",
+      "templateId": "landing.post",
+      "hash": "1266a674671ed2b8f786970cee1060c5",
+      "reused": false
+    },
+    {
       "uuid": "b882858a-ab2e-4ce5-87f5-eb271bfd02b4",
       "path": "/",
       "templateId": "landing.home",
@@ -90,13 +104,6 @@
       "path": "/guides/how-to-create-and-use-menus",
       "templateId": "landing.page",
       "hash": "0da82f5c01f9ae76084d57db69afb2aa",
-      "reused": true
-    },
-    {
-      "uuid": "89543449-f27d-4336-b2f5-c1ceb49a1c0b",
-      "path": "/blog",
-      "templateId": "landing.blog",
-      "hash": "96ef313d04721ea2009217588c023e27",
       "reused": true
     },
     {
