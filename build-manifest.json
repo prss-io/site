@@ -1,20 +1,7 @@
 {
-  "version": 1,
+  "siteUUID": "5d2aa44d-7c8c-4361-953c-736d73bad999",
+  "siteHash": "e41c89b16c99a204806a71c6e528b33a",
   "items": [
-    {
-      "uuid": "89543449-f27d-4336-b2f5-c1ceb49a1c0b",
-      "path": "/blog",
-      "templateId": "landing.blog",
-      "hash": "272dd836d090bfdf338986a82f2e68a9",
-      "reused": false
-    },
-    {
-      "uuid": "ce7072e8-c62d-43fc-8c9b-5b8fec4e287b",
-      "path": "/blog/improvements-prss-build-system",
-      "templateId": "landing.post",
-      "hash": "1266a674671ed2b8f786970cee1060c5",
-      "reused": false
-    },
     {
       "uuid": "b882858a-ab2e-4ce5-87f5-eb271bfd02b4",
       "path": "/",
@@ -107,6 +94,13 @@
       "reused": true
     },
     {
+      "uuid": "89543449-f27d-4336-b2f5-c1ceb49a1c0b",
+      "path": "/blog",
+      "templateId": "landing.blog",
+      "hash": "272dd836d090bfdf338986a82f2e68a9",
+      "reused": true
+    },
+    {
       "uuid": "cde16bc4-8bee-4f27-adb8-d50cb09bc646",
       "path": "/blog/point-theme-released",
       "templateId": "landing.post",
@@ -175,8 +169,13 @@
       "templateId": "landing.post",
       "hash": "a20dcfe8e38ec34b86f8ec74a753aaa6",
       "reused": true
+    },
+    {
+      "uuid": "ce7072e8-c62d-43fc-8c9b-5b8fec4e287b",
+      "path": "/blog/improvements-to-prss-build-performance",
+      "templateId": "landing.post",
+      "hash": "fbcd331f37cc21695fbf043326144b5f",
+      "reused": false
     }
-  ],
-  "siteHash": "e41c89b16c99a204806a71c6e528b33a",
-  "siteUUID": "5d2aa44d-7c8c-4361-953c-736d73bad999"
+  ]
 }
