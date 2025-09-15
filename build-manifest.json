@@ -98,7 +98,7 @@
       "path": "/blog",
       "templateId": "landing.blog",
       "hash": "272dd836d090bfdf338986a82f2e68a9",
-      "reused": true
+      "reused": false
     },
     {
       "uuid": "cde16bc4-8bee-4f27-adb8-d50cb09bc646",
@@ -172,9 +172,9 @@
     },
     {
       "uuid": "ce7072e8-c62d-43fc-8c9b-5b8fec4e287b",
-      "path": "/blog/improvements-to-prss-build-performance",
+      "path": "/blog/new-improvements-to-prss-build-performance",
       "templateId": "landing.post",
-      "hash": "4eab74ea4002861e47002c1201c67226",
+      "hash": "2349d0470e72bd8b45ee07f22884e0f5",
       "reused": false
     }
   ]
