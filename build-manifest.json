@@ -6,7 +6,7 @@
       "path": "/",
       "templateId": "landing.home",
       "hash": "6dad5a15383bafd3c22ab1d59ea35c64",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "e397e4e9-f49c-44fc-9c8d-f2bef4274d5d",
