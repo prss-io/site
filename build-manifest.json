@@ -5,7 +5,7 @@
       "uuid": "b882858a-ab2e-4ce5-87f5-eb271bfd02b4",
       "path": "/",
       "templateId": "landing.home",
-      "hash": "5ea4dc500c9bfe01a7f8199395298e1f",
+      "hash": "6dad5a15383bafd3c22ab1d59ea35c64",
       "reused": false
     },
     {
@@ -13,161 +13,161 @@
       "path": "/features",
       "templateId": "landing.page",
       "hash": "aa8283db9b5827778787dd54534a7be5",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "6a09fc10-278d-41b7-a09c-e739898f37ea",
       "path": "/windows-installation",
       "templateId": "landing.page",
       "hash": "8c66283a3488cc06b9ebe68b206a2568",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "a5980f55-fc44-4177-b453-ce97be6a0afc",
       "path": "/mac-installation",
       "templateId": "landing.page",
       "hash": "a5bef5c1592e379b2d9eafce28f25989",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "192bfd1d-d999-4ebf-ac11-862ac73fb53f",
       "path": "/linux-installation",
       "templateId": "landing.page",
       "hash": "14c451565dece443e4617e7bd8f042cb",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "c75097ec-3426-4320-97d1-d379cc960025",
       "path": "/prss-license",
       "templateId": "landing.page",
       "hash": "c7d0b91a30c50e2fa4697d7f13bb90a8",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "215df533-22ee-40ac-a0b4-20a010e61540",
       "path": "/guides",
       "templateId": "landing.page",
       "hash": "0f8e8348e1ead5b16511668a15a1d96c",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "e64a10a5-c723-4c86-b84a-779f2b1e042b",
       "path": "/guides/companion-setup-mac-os",
       "templateId": "landing.page",
       "hash": "576c2b2330961c0c2430d660952e2dc7",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "2a2f927d-976a-40fe-bd16-97034a7687b6",
       "path": "/guides/building-with-components-in-prss",
       "templateId": "landing.page",
       "hash": "d78f218ad6857ea923e4df88c8c50bde",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "ac349800-0f99-45f9-8b9c-89c819bad52e",
       "path": "/guides/delete-multiple-posts",
       "templateId": "landing.page",
       "hash": "97a7c2c8afecc6238303d812b5793a6d",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "d6fd89ba-a4ba-47c2-9775-53ee715e7782",
       "path": "/guides/use-custom-domain-prss-site",
       "templateId": "landing.page",
       "hash": "dbc5ab20edc5623e8a266e745ecda6bc",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "7c8c7f0f-a721-4ba7-b4cb-81c1dfcf4fb4",
       "path": "/guides/use-prss-custom-hosting",
       "templateId": "landing.page",
       "hash": "fea518b8a8f56a6afb6b8fa08981c50e",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "6620f74c-dd03-46ab-87cd-80c703f8a487",
       "path": "/guides/how-to-create-and-use-menus",
       "templateId": "landing.page",
       "hash": "0da82f5c01f9ae76084d57db69afb2aa",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "89543449-f27d-4336-b2f5-c1ceb49a1c0b",
       "path": "/blog",
       "templateId": "landing.blog",
       "hash": "96ef313d04721ea2009217588c023e27",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "cde16bc4-8bee-4f27-adb8-d50cb09bc646",
       "path": "/blog/point-theme-released",
       "templateId": "landing.post",
       "hash": "d39b4874f0b4d41a2a78d2b5d8277af6",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "d6f1183e-c0a6-49e2-bbc1-19f06ab21b34",
       "path": "/blog/new-themes-available",
       "templateId": "landing.post",
       "hash": "e47b84f9598c5f2af6e547875c58f2d4",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "daad2d41-7464-44e1-98b3-df2d400498d1",
       "path": "/blog/june-updates-features-backported-to-all-prss-themes",
       "templateId": "landing.post",
       "hash": "ca57472f4f6d839d8f3633d5232221fa",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "25d85985-9bd1-4be1-9d13-fd2d4865821c",
       "path": "/blog/upcoming-changes-blocks-addon",
       "templateId": "landing.post",
       "hash": "f26e887641311c7a259303bb66714700",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "f040453a-c623-4872-a183-64474ec25b41",
       "path": "/blog/blocks-editor-updates-and-more",
       "templateId": "landing.post",
       "hash": "05e51ea913f3106587de893dbc0d7680",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "6f637f90-f63c-4dc8-9228-f3416f677f83",
       "path": "/blog/prss-autoblogger-addon-updates",
       "templateId": "landing.post",
       "hash": "5f159c1c93382406d6b16bf4e3e5a1be",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "130fe417-2b40-4083-b545-d62a1360b7d8",
       "path": "/blog/ai-companion-context-menu-back",
       "templateId": "landing.post",
       "hash": "5640088419adb14a38707d78c027443b",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "e76426d1-dc21-43de-b4fb-adf07de89e2d",
       "path": "/blog/optimizing-prss-site-creator-experience-managed-builds",
       "templateId": "landing.post",
       "hash": "a9d59e6e2e056cb64c1b44ab4126a75b",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "db8e9dde-d234-4334-8c6f-bd309ee56c90",
       "path": "/blog/new-hosting-options-prss-site-creator",
       "templateId": "landing.post",
       "hash": "6d80be73c22bb24ef97e8993c7d84888",
-      "reused": false
+      "reused": true
     },
     {
       "uuid": "967ac7a5-5523-49a2-b111-b869a226424e",
       "path": "/blog/prss-site-creator-added-hugo-theme-support-hosting-upgrades",
       "templateId": "landing.post",
       "hash": "a20dcfe8e38ec34b86f8ec74a753aaa6",
-      "reused": false
+      "reused": true
     }
   ],
   "siteHash": "e41c89b16c99a204806a71c6e528b33a",
